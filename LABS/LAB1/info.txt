@@ -1,0 +1,2 @@
+Implement an interface to show usage of different components
+of an android device. ex. accelorometer, compass
