@@ -1,2 +1,3 @@
 Implement an interface to show usage of different components
-of an android device. ex. accelorometer, compass
+of an android device. For this example I have implemented
+accelerometer, compasss and proximity sensor.
